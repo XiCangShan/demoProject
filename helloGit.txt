@@ -13,7 +13,7 @@ hello git
 hello git
 hello git edit edit edit edit edit
 insert
-hello git
+hello 在hot-fixf分支上修改bug
 hello git
 hello git
 第三次修改
