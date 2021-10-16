@@ -1,0 +1,18 @@
+hello git
+key i is insertMod
+key yy(double y) is copy
+key p is paste
+key esc is comeback
+key u is ctrl z
+key (number)+p is copy (number)line
+key :wq is save
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
