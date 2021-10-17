@@ -19,3 +19,4 @@ hello git
 第三次修改--fix修改
 key double mouse left(双击左键) 复制
 key mouse min (中键) 粘贴
+在github上修改
